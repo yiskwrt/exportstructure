@@ -3,11 +3,11 @@
 ## APIs
 
 * print_items(ctypes.Structure instance, prefix)
- * debug print Structure members with indent
+  * debug print Structure members with indent
 * dictionary = export_items(ctypes.Structure instance)
- * export Structure members to python dictionary
+  * export Structure members to python dictionary
 * import_items(ctypes.Structure instance, dictionary)
- * import dictionary items to Struct members
+  * import dictionary items to Struct members
 
 ## examples
 

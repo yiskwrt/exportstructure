@@ -1,0 +1,10 @@
+{
+  foo: 1,
+  bar: 2,
+  hoge: [
+    {xpos: 3, ypos: 4, score: 5, descr: 6},
+    {xpos: 7, ypos: 8, score: 9, descr: 10},
+    {xpos: 11, ypos: 12, score: 13, descr: 14},
+    {xpos: 15, ypos: 16, score: 17, descr: 18},
+  ]
+}

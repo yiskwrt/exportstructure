@@ -17,4 +17,4 @@
 
 ## Limitations
 
-* Scalar members are assumed to be integer. Currently, float is not supported.
+* T.B.D

@@ -35,7 +35,7 @@ def export_item(cstrt):
                 ret.append(export_ary(atr))
         else:
             for atr in cary:
-                ret.append(int(atr))
+                ret.append(atr)
         return ret
 
     ret = {}
@@ -49,7 +49,7 @@ def export_item(cstrt):
             ret[name] = export_item(attr)
         else:
             # member is Scalar
-            ret[name] = int(attr)
+            ret[name] = attr
     return ret
 
 def import_item(cstrt, obj):

@@ -17,5 +17,4 @@
 
 ## Limitations
 
-* Array of Array is not supported.
 * Scalar members are assumed to be integer. Currently, float is not supported.
